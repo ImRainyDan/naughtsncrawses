@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 4166345973
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88eaa7211836f8b64125a87b70c5ae69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/Main/ExTarget.png
+- Assets/Textures/Main/CircleTarget.png
+Dependencies: []

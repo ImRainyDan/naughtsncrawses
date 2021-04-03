@@ -1,0 +1,2 @@
+In order for the scenes to transition properly between eachother, they must all be placed into the Build Settings.
+The "Landing" scene should be first in order but it's not mandatory in order to have the game function.

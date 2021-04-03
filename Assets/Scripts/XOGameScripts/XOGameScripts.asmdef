@@ -1,0 +1,15 @@
+{
+    "name": "XOGameScripts",
+    "references": [
+        "GUID:84807ef28bd42fc45a2d5f7b33ee64aa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
